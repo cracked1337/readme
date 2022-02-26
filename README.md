@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cracked1337
+- 👀 I’m interested in Discord JS
+- 🌱 I’m currently learning Java Script
+- 💞️ I’m looking to collaborate on ..
+- 📫 How to reach me - Discord: cracked#1337
